@@ -42,5 +42,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     <a href="https://github.com/wmswendelmartins/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wmswendelmartins&repo=convoychat" />
     </a>
+    Badge Visitors: 
+    https://visitorbadge.io/
 -->
 
