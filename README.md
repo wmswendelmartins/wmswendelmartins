@@ -33,7 +33,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 ##
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwmswendelmartins&label=Visitors&labelColor=%230e76a8&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwmswendelmartins)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fwmswendelmartins&label=Visitors&labelColor=%230e76a8&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwmswendelmartins)
 
 <!-- Principais repositorios: 
     <a href="https://github.com/wmswendelmartins/github-readme-stats">
