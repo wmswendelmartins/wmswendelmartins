@@ -31,6 +31,10 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 </a>
 
+##
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwmswendelmartins&label=Visitors&labelColor=%230e76a8&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwmswendelmartins)
+
 <!-- Principais repositorios: 
     <a href="https://github.com/wmswendelmartins/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wmswendelmartins&repo=github-readme-stats" />
