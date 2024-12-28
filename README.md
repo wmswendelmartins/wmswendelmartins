@@ -27,7 +27,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
    media="(prefers-color-scheme: dark)"/>
 </a>
 <a href="https://github.com/wmswendelmartins/convoychat">
-  <img height=150 weight=250  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wmswendelmartins&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark"
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wmswendelmartins&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark"
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 </a>
 
