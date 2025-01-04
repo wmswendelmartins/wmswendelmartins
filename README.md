@@ -1,6 +1,6 @@
 
 ## Olá, sou o Wendel Martins!!! :technologist:
-Sou estudante de tecnologia, mais especificamente Análise e Desenvolvimento de Sistemas! :globe_with_meridians:  
+Sou estudante de tecnologia, cursando Análise e Desenvolvimento de Sistemas! :globe_with_meridians:  
 Atualmente estou migrando para a area de Front-End! :rocket:
 
 <!-- Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
