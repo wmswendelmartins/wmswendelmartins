@@ -1,7 +1,7 @@
 
 ## Olá, sou o Wendel Martins!!! :technologist:
-Sou estudante de tecnologia, cursando Análise e Desenvolvimento de Sistemas! :globe_with_meridians:  
-Atualmente estou migrando para a area de Front-End! :rocket:
+Sou estudante de tecnologia, Recentemente formado em Análise e Desenvolvimento de Sistemas! :globe_with_meridians:  
+Atualmente estou migrando para a area de tecnologia! :rocket:
 
 <!-- Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance) -->
